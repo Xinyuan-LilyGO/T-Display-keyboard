@@ -2,6 +2,7 @@
 
 
 <h3 align = "left">Quick start:</h3>
+
 1. Copy  **TFT_eSPI**  to the  **<C:\Users\Your User Name\Documents\Arduino\libraries>**  directory
 2. Open **Arduino IDE,** find **TFT_eSPI** in the file and example, the **T-Display** factory test program is located at **TFT_eSPI -> FactoryTest**, you can also use other sample programs provided by TFT_eSPI
 3 In the **Arduino IDE** tool options, select the development board  **ESP32 Dev Module**, **select Disable in the PSRAM option**, **select 4MB in the Flash Size option**, Other keep the default
