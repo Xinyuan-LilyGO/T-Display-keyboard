@@ -14,7 +14,7 @@
 
 |        Product         |                           Product  Link                            |
 | :--------------------: | :----------------------------------------------------------------: |
-| [T-Display-Keyboard]() | [AliExpress](https://pt.aliexpress.com/item/1005003534734992.html) |
+| [T-Display-Keyboard]() | [AliExpress](https://aliexpress.com/item/1005003534734992.html) |
 
 
 <h3 align = "left">Application 📷:</h3>
